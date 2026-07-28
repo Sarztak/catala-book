@@ -276,7 +276,7 @@ choisi par l'utilisateur. Les noms d'énumération commencent par une majuscule 
 la convention de nommage `CamelCase`. Un exemple de déclaration d'énumération est :
 
 ```catala-code-fr
-déclaration énumération PasDeCreditImpot:
+déclaration énumération CreditImpot:
   -- PasDeCreditImpot
   -- CreditImpotPourIndividu contenu Individu
   -- CreditImpotApresDate contenu date
