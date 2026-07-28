@@ -274,7 +274,7 @@ chosen by the user. Enumeration names begin by a capital letter and should follo
 the `CamlCase` naming convention. An example of enumeration declaration is:
 
 ```catala-code-en
-declaration enumeration NoTaxCredit:
+declaration enumeration TaxCredit:
   -- NoTaxCredit
   -- TaxCreditForIndividual content Individual
   -- TaxCreditAfterDate content date
