@@ -280,10 +280,11 @@ declaration enumeration TaxCredit:
   -- TaxCreditAfterDate content date
 ```
 
-
-The type of each case of the enumeration is mandatory and introduced by
-`content`. It is possible to nest enumerations (declaring the type of a field of
-an enumeration as another enumeration or structure), but not recursively.
+Enumeration cases can have a value (called payload) or not. The payload of an
+enumeration case should be declared along with the case, the type of the payload
+is introduced by `content`. It is possible to nest enumerations (declaring the
+type of a field of an enumeration as another enumeration or structure), but not
+recursively.
 
 Enumeration values are built with the following syntax:
 

@@ -282,10 +282,11 @@ déclaration énumération CreditImpot:
   -- CreditImpotApresDate contenu date
 ```
 
-
-Le type de chaque cas de l'énumération est obligatoire et introduit par
-`contenu`. Il est possible d'imbriquer des énumérations (déclarer le type d'un champ d'une
-énumération comme une autre énumération ou structure), mais pas récursivement.
+Les cas d'énumération peuvent contenir une valeur, ou pas. La valeur d'un cas
+d'énumération doit être déclarée avec le cas, son type est introduit par
+`contenu`. Il est possible d'imbriquer des énumérations (déclarer le type d'un
+champ d'une énumération comme une autre énumération ou structure), mais pas
+récursivement.
 
 Les valeurs d'énumération sont construites avec la syntaxe suivante :
 
