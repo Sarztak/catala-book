@@ -3,7 +3,7 @@
 <div id="tocw"></div>
 
 At this point of the walkthrough, you should have set up the technical project
-environment and are ready to start developping in Catala. But even if it's not
+environment and are ready to start developing in Catala. But even if it's not
 the case, and before starting to translate your first legal text into code, you
 should also set up a proper organisation and methodology to make sure that your
 translation efforts are as productive as possible, and lead to the code with the
