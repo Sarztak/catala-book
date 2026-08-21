@@ -300,7 +300,7 @@ extensible types, a feature present in languages like
 [OCaml](https://ocaml.org/manual/extensiblevariants.html).
 
 However, the Catala team chose not to implement such a feature. Indeed,
-empirical experiments showed that contraty to `definition`s which should always
+empirical experiments showed that contrary to `definition`s which should always
 be justified by the legal specification, the choice of how to arrange data
 structures and scope prototype is largely up to the programmer, and a lot of it
 is rather motivated by programming constraints than legal requirements. This is
