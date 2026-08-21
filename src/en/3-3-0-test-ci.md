@@ -97,7 +97,7 @@ for the scope `IncomeTaxComputation`. While there is no constrained format
 for tests in Catala, we recommend that you follow this pattern:
 
 ~~~catala-en
-> Usage de Income_tax
+> Using Income_tax
 
 ```catala
 # First, declare your test
